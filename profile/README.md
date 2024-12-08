@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to AlgoArchives: ChatGPT Powered Solutions
+Welcome to AlgoArchives: LLM Powered Solutions
 
 Something cooking🧑‍🍳
 Stay tuned!
